@@ -1,1 +1,1 @@
-![image](.img/karinefrontelli.png)
+![image](./karinefrontelli.png)
